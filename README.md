@@ -1,4 +1,4 @@
-# Calculadora
+# Cotação
 ## Desenvolvimento Mobile - Flutter - Exercício 2
 ### Unisagrado - Engenharia de Software
 ### Aluno
